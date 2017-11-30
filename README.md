@@ -1,12 +1,17 @@
 # my-ResNet-tutor
-..Tensorflow .. ..Resnet.. ..Image-clasification.. ..Image-dection..
-*step 1
+two image clasification and image dectection.
+# step 1
 run img_tfcode
-*step 2
+# step 2
 run img_tfdecode
-*step 3
+# step 3
 run cifar_input
-*step 4
+# step 4
 run resnet_model
-*step 5
+# step 5
 run resnet_main
+# platfrom
+tensorflow 1.3
+python 3.6
+window 10
+# appreciate
